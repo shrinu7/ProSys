@@ -1,5 +1,5 @@
 # Proctor-System
-A Proctor Management System (PMS) is a system that manages information typically involving student’s personal information, marks, employee information, supervisor information and Daily Proctor Report (DPR) , reports and informing the students.
+A Proctor Management System (PMS) or ProSys is a system that manages information typically involving student’s personal information, marks, employee information, supervisor information and Daily Proctor Report (DPR) , reports and informing the students.
 
 # Objectives
  1. This project will automate the manual system used for management and maintenance of the critical information.
